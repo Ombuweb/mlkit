@@ -1,6 +1,6 @@
 # @nativescript/mlkit-pose-detection
 
-A plugin that is used with [@nativescript/mlkit-core](../mlkit-core/) to enable Pose Detection and provide the [PoseResult](#poseresult) type for the Pose Detection event data.
+A plugin that is used with [@nativescript/mlkit-core](../plugins/mlkit-core/) to enable Pose Detection and provide the [PoseResult](#poseresult) type for the Pose Detection event data.
 
 ## Contents
 * [Installation](#installation)
